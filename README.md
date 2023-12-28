@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fiverr.com%2Fjaishkumar88%2Fdo-html-css-javascript-java-python-oop-data-structures-firebase-mongodb&psig=AOvVaw20PKsR7vvFlVb25vOSZ95Z&ust=1703857588635000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCco6aisoMDFQAAAAAdAAAAABAD)
+[![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/289825650/original/22d4898e4027a40ba2f30c2df497d547fd100c7e/do-any-html-css-javascript-python-or-java-coding-work.png)
 <h1 align="center">Hi 👋, I'm yigitctr</h1>
 <h3 align="center">A passionate cyber security and frontend developer from Turkey</h3>
 
