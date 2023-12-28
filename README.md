@@ -32,3 +32,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yigitctr&show_icons=true&locale=en" alt="yigitctr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yigitctr&" alt="yigitctr" /></p>
+
+
+
+
+![snake gif](https://github.com/yigitctr/yigitctr/blob/output/github-contribution-grid-snake.gif)
