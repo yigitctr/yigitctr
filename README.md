@@ -1,10 +1,9 @@
-![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/289825650/original/22d4898e4027a40ba2f30c2df497d547fd100c7e/do-any-html-css-javascript-python-or-java-coding-work.png)
 <h1 align="center">Hi 👋, I'm yigitctr</h1>
 <h3 align="center">A passionate cyber security and frontend developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Get Port List Turkısh Airlines**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 Expertise in "Java language"
 
 - 👨‍💻 All of my projects are available at [agonmuzik.com and cysoftwares.com](agonmuzik.com and cysoftwares.com)
 
