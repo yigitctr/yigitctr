@@ -5,7 +5,7 @@
 
 - 🌱 Expertise in "Java language"
 
-- 👨‍💻 All of my projects are available at [agonmuzik.com and cysoftwares.com](agonmuzik.com and cysoftwares.com)
+- 👨‍💻 All of my projects are available at [agonmuzik.com and cysoftwares.com]
 
 - 📝 I regularly write articles on [cysoftwares.com](cysoftwares.com)
 
