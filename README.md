@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm yigitctr</h1>
-<h3 align="center">A passionate cyber security and frontend developer from Turkey</h3>
+<h1 align="center">A passionate cyber security and frontend developer from Turkey</h1>
 
 - 🔭 I’m currently working on **Get Port List Turkısh Airlines**
 
