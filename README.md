@@ -1,4 +1,4 @@
-<h1 align="center">A passionate cyber security and frontend developer from Turkey</h1>
+<h1 align="center">A passionate cyber security and (Java, Python Language) from Turkey</h1>
 
 - 🔭 I’m currently working on **Get Port List Turkısh Airlines**
 
