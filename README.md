@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/yigitctr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yigitctr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yiğit çitören" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yiğit çitören" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yi%C4%9Fit-%C3%A7it%C3%B6ren-729293274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yiğit çitören" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19400731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19400731" height="30" width="40" /></a>
 <a href="https://instagram.com/__yigitctr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__yigitctr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yigitctr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yigitctr" height="30" width="40" /></a>
